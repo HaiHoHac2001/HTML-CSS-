@@ -1,0 +1,39 @@
+/* Tablet & Mobile */
+
+@media (max-width: 1023px) {
+  
+}
+
+
+/* tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+  p.banner-description{
+    padding: 16px 40px 0 40px;
+  }
+  .content-item{
+    display: inline-block;
+  }
+  .content-list-item {
+    margin-bottom: 36px;
+  }
+
+}
+
+/* mobile */
+@media (max-width: 739px) {
+  .banner,
+  .footer
+  ,.content-item {
+    margin: 20px;
+  }
+  .content-item{
+    display: inline-block;
+  }
+  .content-list-item {
+    margin-bottom: 36px;
+  }
+  p.banner-description{
+    padding: 20px 20px 0 20px;
+  }
+  
+}
