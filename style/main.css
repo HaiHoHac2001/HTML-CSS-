@@ -121,3 +121,7 @@ img.content-item-img {
 .active {
   background-color: #5C5C5C
 }
+
+.dontselect {
+  color: #AAAAAA;
+}

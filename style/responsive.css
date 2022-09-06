@@ -35,5 +35,11 @@
   p.banner-description{
     padding: 20px 20px 0 20px;
   }
-  
+  .category {
+    width: calc(var(--width-category)-75px);
+  }
+  .content {
+    margin-left: 95px;
+  }
 }
+
